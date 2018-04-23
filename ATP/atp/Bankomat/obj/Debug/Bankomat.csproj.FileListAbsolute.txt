@@ -1,0 +1,7 @@
+C:\projects\ATP\atp\Bankomat\obj\Debug\Bankomat.csprojResolveAssemblyReference.cache
+C:\projects\ATP\atp\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+C:\projects\ATP\atp\Bankomat\bin\Debug\Bankomat.exe.config
+C:\projects\ATP\atp\Bankomat\bin\Debug\Bankomat.exe
+C:\projects\ATP\atp\Bankomat\bin\Debug\Bankomat.pdb
+C:\projects\ATP\atp\Bankomat\obj\Debug\Bankomat.exe
+C:\projects\ATP\atp\Bankomat\obj\Debug\Bankomat.pdb
